@@ -1,5 +1,5 @@
 # Social-Development-Bank-EDA
-View the report [here](https://aeprogress.github.io/gov_banking_eda/gov_banking_eda.html)
+View the report [here](https://alhuri.github.io/Social-Development-Bank-EDA/gov_banking_eda.html)
 
 ## About Social Development Bank
 
